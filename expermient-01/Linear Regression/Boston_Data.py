@@ -3,7 +3,7 @@
 
 import pandas as pd
 
-data = pd.read_csv(r'C:\Users\11737\Desktop\machine\Machine-Learning-for-Beginner-by-Python3\Linear Regression\Boston.csv')
+data = pd.read_csv(r'修改为数据路径')
 
 #y值
 y_data = data['MEDV']

@@ -2,7 +2,7 @@
 # &Author  AnFany
 
 import pandas as pd
-data = pd.read_csv(r'C:\Users\11737\Desktop\machine\Machine-Learning-for-Beginner-by-Python3\Logistic Regression\Heart.csv')
+data = pd.read_csv(r'修改为数据路径')
 
 
 # 数据说明
