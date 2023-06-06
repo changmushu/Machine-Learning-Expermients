@@ -1,6 +1,6 @@
 # Machine-Learning-Expermients
 
-学习通课后习题 https://github.com/changmushu/Machine-Learning-Expermients/blob/master/Exam/Promble.md 
+学习通课后习题 https://github.com/changmushu/Machine-Learning-Expermients/blob/master/Exam/Promble.md
 
 ### 东北林业大学-机器学习实验
 
